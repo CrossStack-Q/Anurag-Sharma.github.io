@@ -24,3 +24,15 @@ function pictureChange() {
     document.getElementById("sk6").src = "./assets/grid/skill2/light/dsl.jpg";
     document.getElementById("back1l").src = "./assets/grid/back1l.png";
 }
+
+
+
+
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
