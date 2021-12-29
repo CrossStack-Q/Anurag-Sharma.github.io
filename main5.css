@@ -27,6 +27,7 @@ a {
 
 .nav {
     display: flex;
+    /* position: static; */
     justify-content: space-between;
     align-items: center;
     padding-top: 20px;
@@ -331,7 +332,7 @@ a {
 .buttonsone button {
     background-color: #4e1cc7;
     color: white;
-    padding: 2vw 4vh;
+    padding: 1vw 2vh;
     text-align: center;
     text-decoration: none;
     font-size: 25px;
@@ -348,7 +349,7 @@ a {
 .buttonstwo button {
     background-color: #4e1cc7;
     color: white;
-    padding: 2vw 4vh;
+    padding: 1vw 2vh;
     text-align: center;
     text-decoration: none;
     font-size: 25px;
@@ -365,7 +366,7 @@ a {
 .buttonsthree button {
     background-color: #4e1cc7;
     color: white;
-    padding: 2vw 4vh;
+    padding: 1vw 2vh;
     text-align: center;
     text-decoration: none;
     font-size: 25px;
@@ -382,7 +383,7 @@ a {
 .buttonsfour button {
     background-color: #4e1cc7;
     color: white;
-    padding: 2vw 4vh;
+    padding: 1vw 2vh;
     text-align: center;
     text-decoration: none;
     font-size: 25px;
